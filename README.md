@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Silwal</h1>
 <h3 align="center">A passionate frontend developer from NEPAL🇳🇵</h3>
-<img  align="right" width="500px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw0qhiE1W2tpzwnNPJwjnxIT&ust=1705760483538000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjW3JPT6YMDFQAAAAAdAAAAABA8">
+<img  align="right" width="500px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silwalsagar1&label=Profile%20views&color=0e75b6&style=flat" alt="silwalsagar1" /> </p>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silwalsagar1&show_icons=true&locale=en" alt="silwalsagar1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silwalsagar1&" alt="silwalsagar1" /></p>
-
