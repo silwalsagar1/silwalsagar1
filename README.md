@@ -1,3 +1,4 @@
+![logo](https://github.com/silwalsagar1/silwalsagar1/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sagar Silwal</h1>
 <h3 align="center">A passionate frontend developer from NEPAL🇳🇵</h3>
 
@@ -10,7 +11,7 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sagar silwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar silwal" height="30" width="40" /></a>
-<a href="https://fb.com/सागर सिल्वाल" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="सागर सिल्वाल" height="30" width="40" /></a>
+<a href="https://fb.com/Silwal.sagar.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="सागर सिल्वाल" height="30" width="40" /></a>
 <a href="https://instagram.com/ssg.grr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssg.grr_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@sagarsilwal5529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sagarsilwal5529" height="30" width="40" /></a>
 <a href="https://discord.gg/god02zilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="god02zilla" height="30" width="40" /></a>
