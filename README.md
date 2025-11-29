@@ -1,6 +1,6 @@
 ![logo](https://github.com/silwalsagar1/silwalsagar1/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sagar Silwal</h1>
-<h3 align="center">A Passionate, Wanna be Frontend Developer from NEPAL. <img width="50px" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/128px/1f1f3-1f1f5.png"></h3>
+<h3 align="center">A Passionate, Frontend Developer from NEPAL. <img width="50px" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/128px/1f1f3-1f1f5.png"></h3>
 
 <img  align="right" width="500px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
